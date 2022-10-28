@@ -17,7 +17,7 @@
 
 ## :computer: Tech Stack
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlarlxo2323&show_icons=true&locale=en&layout=compact" alt="rlarlxo2323" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuHyeon2&show_icons=true&locale=en&layout=compact" alt="DuHyeon2" /></p>
 
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
