@@ -17,6 +17,7 @@
 
 ## :computer: Tech Stack
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=engus8827)](https://solved.ac/engus8827/)
 
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
