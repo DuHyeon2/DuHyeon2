@@ -17,11 +17,6 @@
 
 ## :computer: Tech Stack
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuHyeon2&show_icons=true&locale=en&layout=compact" alt="DuHyeon2" /></p>
-
-
- ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&show_icons=true&theme=vue)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuHyeon2&layout=compact&theme=vue&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
