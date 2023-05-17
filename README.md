@@ -4,11 +4,15 @@
 	
 </div>
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuHyeon2&show_icons=true&locale=en" alt="DuHyeon2" />
 </p>
+
+<div align=center>
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=DuHyeon2&theme=onedark)](https://github-profile-trophy.vercel.app/?username=DuHyeon2&margin-w=8)
+
+</div>
 
 ## :facepunch: Introduce
 배워가는 개발자를 꿈꾸는 김두현 입니다.</br>
