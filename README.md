@@ -9,8 +9,8 @@
 </p>
 
 <div align=center>
-	
-[![trophy](https://github-profile-trophy.vercel.app/?username=DuHyeon2&theme=onedark)](https://github-profile-trophy.vercel.app/?username=DuHyeon2&margin-w=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DuHyeon2&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
