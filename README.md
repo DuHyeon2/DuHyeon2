@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![DuHyeon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&show_icons=true&theme=dracula&count_private=true)
+[![DuHyeon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
