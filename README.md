@@ -4,9 +4,11 @@
 	
 </div>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DuHyeon2&show_icons=true&locale=en&count_private=true" alt="DuHyeon2" />
-</p>
+<div align=center>
+
+![DuHyeon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&show_icons=true&theme=dracula&count_private=true)
+
+</div>
 
 <div align=center>
 
