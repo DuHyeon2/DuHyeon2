@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[![DuHyeon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![DuHyeon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuHyeon2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
